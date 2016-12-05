@@ -31,6 +31,7 @@ The README must also explain any non-obvious features of your interface.
 - Code Structure
 
 Generally speaking, `Utils` includes the interaction code and `Chart` includes all the static charts; with `run()` function, they could be connected and executed together.
+
 For the detailed actions and charts involved in this project, please find the process book and the code for reference.
 
 
