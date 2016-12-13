@@ -8,11 +8,11 @@ In this project, we attempt to show the evolution of the two-party system across
 
 
 ## URL
-URLs to your project websites
+We’ve heard much from the media of Election 2016, but what does the data say, about the US elections over the history? [Join us](https://ViennaChen.github.io/WPI_DV_Final_Project/index.html) to explore the data stories behind all things election! 
 
 
 ## Demo
-Create a two minute screen-cast with narration showing a demo of your visualization and/or some slides.
+We create a two minute screen-cast with narration showing a demo of your visualization. Please find viz_demo_record in this repository.
 
 
 ## Description
